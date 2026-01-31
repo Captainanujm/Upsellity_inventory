@@ -2,7 +2,7 @@
 
 A modern, full-stack inventory management system built for e-commerce merchants. This application provides real-time inventory tracking, analytics, and stock management capabilities.
 
-## 🚀 Features
+##  Features
 
 ### Core Features
 - **Product Management (CRUD)** - Create, read, update, delete products
@@ -15,7 +15,7 @@ A modern, full-stack inventory management system built for e-commerce merchants.
 - **Dark/Light Theme** - Toggle between themes with persistence
 - **Collapsible Sidebar** - Expandable navigation with smooth animations
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |-------|------------|
@@ -25,7 +25,7 @@ A modern, full-stack inventory management system built for e-commerce merchants.
 | Routing | React Router |
 | HTTP | Axios |
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 inventory-system/
@@ -51,7 +51,7 @@ inventory-system/
 └── DOCUMENTATION.md
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js 18+
@@ -99,7 +99,7 @@ cd client
 npm run build
 ```
 
-## 📖 Usage Guide
+##  Usage Guide
 
 ### Dashboard
 - View total products, inventory value, low stock, out of stock counts
@@ -123,7 +123,7 @@ npm run build
 - Click sun/moon icon in header to switch themes
 - Preference saved to localStorage
 
-## 🌐 API Endpoints
+##  API Endpoints
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
@@ -135,25 +135,14 @@ npm run build
 | GET | /api/analytics | Dashboard statistics |
 | GET | /api/stock-history | Stock change log |
 
-## 🎨 UI Features
-
-- **Color-coded Status Badges:**
-  - 🟢 Green = In Stock (above threshold)
-  - 🟡 Yellow = Low Stock (at or below threshold)
-  - 🔴 Red = Out of Stock (0 quantity)
-
-- **Dark/Light Theme** with smooth transitions
-- **Responsive Design** for different screen sizes
-- **Collapsible Sidebar** for more content space
-
-## 📝 Sample Data
+##  Sample Data
 
 The app includes 8 sample products for testing:
 - Laptop, iPhone 14, Monitor 27"
 - Wireless Mouse, Keyboard, Headphones
 - USB-C Cable, Webcam HD
 
-## 🚀 Deployment
+##  Deployment
 
 ### Backend
 Deploy to: Render
@@ -169,4 +158,4 @@ MIT License
 
 ---
 
-Built with ❤️ for e-commerce merchants
+Built with Anuj for e-commerce merchants
