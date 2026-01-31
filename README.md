@@ -156,12 +156,12 @@ The app includes 8 sample products for testing:
 ## 🚀 Deployment
 
 ### Backend
-Deploy to: Render, Railway, Heroku, or any Node.js host
+Deploy to: Render
 
 ### Frontend  
-Deploy to: Vercel, Netlify, or Cloudflare Pages
+Deploy to: Vercel
 
-**Live Demo:** [Add your deployment URL here]
+**Live Demo:** https://upsellity-inventory-t87q.vercel.app/
 
 ## 📄 License
 
